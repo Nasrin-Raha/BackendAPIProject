@@ -1,10 +1,7 @@
 {
 	"name": "nasrin-raha-learn-npm-package-json",
 	"version": "1.0.0",
-	"author": {
-		"name": "Nasrin Raha",
-		"url": "https://github.com/Nasrin-Raha/BackendAPIProject/blob/main/package.json"
-	  },
+	"author": "Nasrin Raha <nasren.raha@gmail.com>",
 	"dependencies": {
 		"express": "^4.14.0"
 	},
